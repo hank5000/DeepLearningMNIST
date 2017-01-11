@@ -6,4 +6,5 @@
 
 
 MNISTTraining.py => use for training weights/biases and save to MyNets.
+
 MNISTDemoUI.py => It's an application using pre-train weights to detect the picture you drew
